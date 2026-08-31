@@ -1,0 +1,53 @@
+{
+  "dankBatteryAlerts": {
+    "enabled": true
+  },
+  "usbManager": {
+    "enabled": false
+  },
+  "batteryPlus": {
+    "enabled": true,
+    "timespanHours": 24
+  },
+  "tlpPowerProfile": {
+    "enabled": true,
+    "activeProfileId": "performance"
+  },
+  "dmsCalendar": {
+    "enabled": false
+  },
+  "catWidget": {
+    "enabled": false
+  },
+  "enderPulse": {
+    "enabled": false,
+    "variants": [
+      {
+        "id": "builtin_output",
+        "name": "System output",
+        "audioTarget": "system",
+        "audioBackend": "auto",
+        "customAudioSource": "",
+        "icon": "volume_up",
+        "description": "EnderPulse audio source: System output"
+      },
+      {
+        "id": "builtin_microphone",
+        "name": "Microphone input",
+        "audioTarget": "microphone",
+        "audioBackend": "auto",
+        "customAudioSource": "",
+        "icon": "mic",
+        "description": "EnderPulse audio source: Microphone input"
+      }
+    ],
+    "mode": "spectrum",
+    "palette": "material"
+  },
+  "dankLauncherKeys": {
+    "enabled": false
+  },
+  "modernClock": {
+    "enabled": false
+  }
+}
