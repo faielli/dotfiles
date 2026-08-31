@@ -1,0 +1,9 @@
+downgrade
+fetch-git
+google-chrome
+niripad
+timeshift-autosnap
+yay
+yay-debug
+zsh-autopair-git
+zsh-you-should-use
