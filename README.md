@@ -19,3 +19,11 @@ dotfiles checkout
 ```bash
 pacman -S --needed - < .pkglist.txt
 ```
+
+## Icone
+MacTahoe icon theme — scaricalo manualmente e copialo in `/usr/share/icons/`:
+- Source: https://www.gnome-look.org/p/2299216
+
+```bash
+sudo cp -r MacTahoe* /usr/share/icons/
+```
