@@ -764,7 +764,7 @@
       "id": "dw_1788204967931_43s7ggh5x",
       "widgetType": "modernClock",
       "name": "Modern Clock",
-      "enabled": true,
+      "enabled": false,
       "config": {
         "displayPreferences": [
           "all"
